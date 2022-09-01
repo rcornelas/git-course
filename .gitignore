@@ -1,3 +1,4 @@
 images/
 passwords.env
 .DS_Store
+testing.env
